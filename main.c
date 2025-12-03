@@ -3,7 +3,7 @@
 #define MAX 100
 
 int arr[MAX];
-int n = 0;   // current size of array
+int n = 0;   
 
 void display() {
     if (n == 0) {
